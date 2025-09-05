@@ -1,2 +1,2 @@
 # ClassGeneral
-Read about the classes here
+This document summarizes 
